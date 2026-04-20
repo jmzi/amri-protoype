@@ -9,7 +9,7 @@ export default function Footer() {
             <div className="fl">
               <Link href="/" className="">
                 <img
-                  src="https://res.cloudinary.com/dnr4zo1ov/image/upload/v1776558591/logo_kv0csr.png"
+                  src="https://res.cloudinary.com/dnr4zo1ov/image/upload/v1776684778/amri-logo_xtgsmq.png"
                   width="120px"
                   alt=""
                 />
