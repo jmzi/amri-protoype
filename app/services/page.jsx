@@ -90,7 +90,7 @@ export default function ServicesPage() {
             <div className="price">
               <div>
                 <div className="price-from">Starting from</div>
-                <div className="price-val">₱15,000</div>
+                <div className="price-val">₱29,980</div>
               </div>
               <Link href="/contact" className="price-link">
                 Get a Quote →
@@ -118,7 +118,7 @@ export default function ServicesPage() {
             <div className="price">
               <div>
                 <div className="price-from">Starting from</div>
-                <div className="price-val">₱5,200</div>
+                <div className="price-val">₱14,290</div>
               </div>
               <Link href="/contact" className="price-link">
                 Get a Quote →
@@ -146,7 +146,7 @@ export default function ServicesPage() {
             <div className="price">
               <div>
                 <div className="price-from">Starting from</div>
-                <div className="price-val">₱5,500</div>
+                <div className="price-val">₱7,500</div>
               </div>
               <Link href="/contact" className="price-link">
                 Get a Quote →
@@ -204,7 +204,7 @@ export default function ServicesPage() {
             <div className="price">
               <div>
                 <div className="price-from">Starting from</div>
-                <div className="price-val">₱5,600</div>
+                <div className="price-val">₱20,600</div>
               </div>
               <Link href="/contact" className="price-link">
                 Get a Quote →
