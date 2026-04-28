@@ -279,7 +279,7 @@ export default function ServicesPage() {
               <div className="pkg-badge">Most Popular</div>
               <div className="pkg-name">GROWTH</div>
               <div className="pkg-price">
-                ₱15,500 <span>/ project</span>
+                ₱25,790 <span>/ project</span>
               </div>
               <div className="pkg-desc">Ideal for e-commerce stores, blogs, and business sites that need a CMS and custom features.</div>
               <div className="pkg-divider"></div>
